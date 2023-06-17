@@ -1,0 +1,1 @@
+Complete solution for configuring and managing Bacula backups on local and remote hosts. With integrated deployment functions Bacularis enables remote installing/upgrading/removing Bacula components using system or own repositories. All Bacula components are configured in real time via one web interface.
